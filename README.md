@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SauravBhattacharjee25
-- 👀 I’m interested in ... Reservoir Simulation and Geothermal engineering
+- 👀 I’m interested in ... Reservoir Simulation, Geothermal engineering, and AI/ML and its implementation in the Oil & Gas Industry
 - 🌱 I’m currently learning ... PhD in Petroleum Engineering
-- 💞️ I’m looking to collaborate on ... projects related to reservoir simulation and Geothermal energy
+- 💞️ I’m looking to collaborate on ... projects related to AI/ML and its implementation in the Oil & Gas Industry
 - 📫 How to reach me ... bhattacharjeesourav342@gmail.com and rs_sauravbhattacharjee@dibru.ac.in
 
 <!---
